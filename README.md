@@ -14,7 +14,7 @@ The pipeline converts audio into constant-Q transform (CQT) features and predict
 
 
 
-**## Project Structure**
+## Project Structure
 
 ```
 
